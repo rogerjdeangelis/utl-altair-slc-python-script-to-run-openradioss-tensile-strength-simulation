@@ -9,7 +9,7 @@
 /ANIM/SHELL/TENS/STRAIN/ALL
 /PRINT/-500/55
 /RUN/gmsh_tensile_LAW36_BIQUAD/1/
-                4.0
+                0.04
 /STOP
 # Emax Mmax Nmax NTH NANIM NERR_POSIT
 0 0 0 1 1 0
