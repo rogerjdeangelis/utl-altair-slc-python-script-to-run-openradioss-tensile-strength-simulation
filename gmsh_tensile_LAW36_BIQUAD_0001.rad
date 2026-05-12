@@ -4,12 +4,12 @@
 # (https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 #---1----|----2----|----3----|----4----|----5----|----6----|----7----|----8----|----9----|---10----|
 /ANIM/DT
-0 0.001
+0 0.0002
 /ANIM/SHELL/TENS/STRESS/ALL
 /ANIM/SHELL/TENS/STRAIN/ALL
 /PRINT/-500/55
 /RUN/gmsh_tensile_LAW36_BIQUAD/1/
-                0.04
+                0.018
 /STOP
 # Emax Mmax Nmax NTH NANIM NERR_POSIT
 0 0 0 1 1 0
