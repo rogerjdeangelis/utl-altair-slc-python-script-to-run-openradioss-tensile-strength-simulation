@@ -10,8 +10,7 @@ Too long to post here see github
 [github](https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation)
 
 [annimation](https://www.youtube.com/watch?v=5S3gGxW89yU)
-www.youtube.com/watch?v=5S3gGxW89yU
-
+ 
 A complete self-contained reproducible example is presented that is entirely scripted, no
 GUI or mouse surfing requeried.
 
