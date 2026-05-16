@@ -29,12 +29,19 @@ For validation an exact reproduction of the published plot was created,
 Graphical Analysis - See below for Summary Tables
 
 [Stress-strain curve         ](https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/stress_strain.png)
+
 [Force vs Displacement       ](https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/force_displace.png)
-[Energy - Early Phase        ](https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/energy_evolution.png
+
+[Energy - Early Phase        ](https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/energy_evolution.png)
+
 [Energy - Full Simulation    ](https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/energy_evolutionfull.png)
+
 [X-Momentum Primary Direction](https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/xmomentumevolve.png)
+
 [Time Step Evolution         ](https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/timestephistory.png)
+
 [Energy Balance              ](https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/energybalance.png)
+
 [Fraction Plastic Deformation](https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/plasticwork.png)
 
 CONTENTS
