@@ -29,7 +29,7 @@ Graphical Analysis - See below for Summary Tables
 
 [Force vs Displacement       ](https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/force_displace.png)
 
-[Energy - Early Phase        ](https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/energy_evolution.png
+[Energy - Early Phase        ](https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/energy_evolution.png)
 
 [Energy - Full Simulation    ](https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation/blob/main/energy_evolutionfull.png)
 
